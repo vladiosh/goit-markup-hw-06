@@ -202,6 +202,7 @@ body {
   color: var(--primary-text-color);
   display: flex;
   position: relative;
+  align-items: center;
 }
 
 .legend-text span {
@@ -916,7 +917,7 @@ body {
 }
 
 .subscribe-text {
-  padding-bottom: 20px;
+  margin-bottom: 20px;
 
   font-weight: 700;
 
